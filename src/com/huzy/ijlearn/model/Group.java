@@ -34,4 +34,7 @@ public class Group {
     public void setUserList(List<User> userList) {
         this.userList = userList;
     }
+
+    public Group() {
+    }
 }
